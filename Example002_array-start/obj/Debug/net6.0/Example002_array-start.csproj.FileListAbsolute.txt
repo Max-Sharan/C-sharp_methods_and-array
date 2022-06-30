@@ -1,0 +1,15 @@
+C:\Users\qshar\Desktop\Обучение программированию\Знакомство C#\Лекция 2 - теория\Example002_array-start\bin\Debug\net6.0\Example002_array-start.exe
+C:\Users\qshar\Desktop\Обучение программированию\Знакомство C#\Лекция 2 - теория\Example002_array-start\bin\Debug\net6.0\Example002_array-start.deps.json
+C:\Users\qshar\Desktop\Обучение программированию\Знакомство C#\Лекция 2 - теория\Example002_array-start\bin\Debug\net6.0\Example002_array-start.runtimeconfig.json
+C:\Users\qshar\Desktop\Обучение программированию\Знакомство C#\Лекция 2 - теория\Example002_array-start\bin\Debug\net6.0\Example002_array-start.dll
+C:\Users\qshar\Desktop\Обучение программированию\Знакомство C#\Лекция 2 - теория\Example002_array-start\bin\Debug\net6.0\Example002_array-start.pdb
+C:\Users\qshar\Desktop\Обучение программированию\Знакомство C#\Лекция 2 - теория\Example002_array-start\obj\Debug\net6.0\Example002_array-start.csproj.AssemblyReference.cache
+C:\Users\qshar\Desktop\Обучение программированию\Знакомство C#\Лекция 2 - теория\Example002_array-start\obj\Debug\net6.0\Example002_array-start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qshar\Desktop\Обучение программированию\Знакомство C#\Лекция 2 - теория\Example002_array-start\obj\Debug\net6.0\Example002_array-start.AssemblyInfoInputs.cache
+C:\Users\qshar\Desktop\Обучение программированию\Знакомство C#\Лекция 2 - теория\Example002_array-start\obj\Debug\net6.0\Example002_array-start.AssemblyInfo.cs
+C:\Users\qshar\Desktop\Обучение программированию\Знакомство C#\Лекция 2 - теория\Example002_array-start\obj\Debug\net6.0\Example002_array-start.csproj.CoreCompileInputs.cache
+C:\Users\qshar\Desktop\Обучение программированию\Знакомство C#\Лекция 2 - теория\Example002_array-start\obj\Debug\net6.0\Example002_array-start.dll
+C:\Users\qshar\Desktop\Обучение программированию\Знакомство C#\Лекция 2 - теория\Example002_array-start\obj\Debug\net6.0\refint\Example002_array-start.dll
+C:\Users\qshar\Desktop\Обучение программированию\Знакомство C#\Лекция 2 - теория\Example002_array-start\obj\Debug\net6.0\Example002_array-start.pdb
+C:\Users\qshar\Desktop\Обучение программированию\Знакомство C#\Лекция 2 - теория\Example002_array-start\obj\Debug\net6.0\Example002_array-start.genruntimeconfig.cache
+C:\Users\qshar\Desktop\Обучение программированию\Знакомство C#\Лекция 2 - теория\Example002_array-start\obj\Debug\net6.0\ref\Example002_array-start.dll
